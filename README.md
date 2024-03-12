@@ -1,6 +1,5 @@
 # Exploratory data analysis bank dataset
-This work is about exploring variable from customer in bank dataset 
-(Using visualization and statistic to know customer characteristics and find insight)
+This project explores customer variables in a bank dataset. By using data visualization and statistical analysis, I aim to understand customer characteristics and uncover valuable insights.
 
 This is my midterm project from my university class
 ## You can see all result and insight from ipny preview or html file
