@@ -1,4 +1,4 @@
-# Customer Response Analysis for Bank Marketing Campaign
+# About This Project
 This is my group project in my university class. We work with 45211 row and 17 column bank data
 
 - This project focuses on using EDA to increase the number of customers acquired through bank campaigns
